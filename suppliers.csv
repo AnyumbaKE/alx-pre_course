@@ -1,21 +1,21 @@
 SupplierName,SupplierEmail,SupplierPhoneNumber,KraPin,BankAccount,BankName,BranchName,SwiftCode,BillingAddress,PostalCode,County
-Omondi Enterprises,omondienterprises.biz,0790870270,P246437616,145786943552,Standard Chartered Bank,jZjKOBGJ,LTXSYNJN,"Garissa Town, 70100",70100,Garissa
-Wangari Exports,wangariexports.biz,0747252057,P837046806,109088335069,Barclays Bank of Kenya,uNLrQwUb,LZMFUVRU,"Thika Town, 01000",01000,Thika
-Nyambura Supplies,nyamburasupplies.co.ke,0714740146,P491853189,232076958077,Cooperative Bank of Kenya,mqdsqjOw,HOOBVYWC,"Mombasa Island, 80100",80100,Mombasa
-Kamau Importers,kamauimporters.co.ke,0758497079,P268513526,597942748297,National Bank of Kenya,XDyRAeoA,LMCYPTXY,"Kitale Town, 30200",30200,Kitale
-Wanjiru Traders,wanjirutraders.biz,0743301558,P493736790,259913952619,Kenya Commercial Bank (KCB),MziCROCd,TESCCQIZ,"Garissa Town, 70100",70100,Garissa
-Mwangi Wholesalers,mwangiwholesalers.co.ke,0709512582,P750696855,228263505535,CITIBANK,kjLKzsdu,ETUBTEAX,"Mombasa Island, 80100",80100,Mombasa
-Odhiambo Imports,odhiamboimports.com,0770793127,P847989439,118883248873,National Bank of Kenya,KZrnKEkn,KEITURUF,"Meru Town, 60200",60200,Meru
-Wangari Exports,wangariexports.com,0701960306,P751494944,270144283738,Diamond Trust Bank (DTB),NWmMhGsl,ZBIVDLYK,"Kakamega Town, 50100",50100,Kakamega
-Wambui Enterprises,wambuienterprises.co.ke,0785660904,P632196523,585704116220,Standard Chartered Bank,XaRMCdGL,BWMHAHWB,"Kitale Town, 30200",30200,Kitale
-Wambui Enterprises,wambuienterprises.biz,0762246824,P468521700,708260160589,Kenya Commercial Bank (KCB),uNhursBu,KGJSDYHD,"Nyeri Town, 10100",10100,Nyeri
-Njeri Trading Co.,njeritradingco..biz,0765169325,P077289720,339241476358,National Bank of Kenya,BPIWjmdF,XHSZVWSJ,"Malindi Town, 80200",80200,Malindi
-Mwangi Wholesalers,mwangiwholesalers.co.ke,0723142686,P129466973,086229180514,Barclays Bank of Kenya,FhkXZNQg,RQRXHPRO,"Nairobi CBD, 00100",00100,Nairobi
-Nyambura Supplies,nyamburasupplies.biz,0730197222,P862759153,031069396545,Kenya Commercial Bank (KCB),tSvBnZEc,PXLCWUNH,"Nyeri Town, 10100",10100,Nyeri
-Mutua Enterprises,mutuaenterprises.com,0729545851,P271764383,017417133285,Standard Chartered Bank,GaopqIfE,POTXOLFS,"Malindi Town, 80200",80200,Malindi
-Wanjiru Traders,wanjirutraders.com,0736792582,P355066860,103414653910,Cooperative Bank of Kenya,hocmXVEk,DMLFDIQY,"Kisumu City, 40100",40100,Kisumu
-Njeri Trading Co.,njeritradingco..co.ke,0739603236,P747974516,052748044048,Stanbic Bank Kenya,ZCRMSMry,XHMICJMK,"Lamu Town, 80500",80500,Lamu
-Njoroge Distributors,njorogedistributors.co.ke,0753607973,P455741329,528295362075,CITIBANK,PpcvQIUc,KFQGFOST,"Garissa Town, 70100",70100,Garissa
-Njuguna Limited,njugunalimited.com,0740019343,P499611616,771371480127,Kenya Commercial Bank (KCB),obnieMJG,DIRELLTE,"Nyeri Town, 10100",10100,Nyeri
-Mutua Enterprises,mutuaenterprises.biz,0787874757,P617255757,380259378788,Cooperative Bank of Kenya,DldfXcbz,SCJSFWLP,"Bungoma Town, 50200",50200,Bungoma
-Njeri Trading Co.,njeritradingco..biz,0739301880,P635535890,224807973144,CITIBANK,uWViDvXl,BRAZMXOM,"Bungoma Town, 50200",50200,Bungoma
+Njoroge Distributors,info.njorogedistributors.biz,0753301672,P726391367,130411996963,Stanbic Bank Kenya,gpgdlPJV,SWBWWAOL,"Kakamega Town, 50100",50100,Kakamega
+Njeri Trading Co.,info.njeritradingco..biz,0701224166,P871020437,289376414125,Absa Bank Kenya,nMPQaQAQ,NDGWTSCO,"Bungoma Town, 50200",50200,Bungoma
+Achieng Traders,info.achiengtraders.co.ke,0720410968,P831510872,954345420538,Barclays Bank of Kenya,GrHSVvgr,IBYIZAQZ,"Kisumu City, 40100",40100,Kisumu
+Njoroge Distributors,info.njorogedistributors.biz,0726511100,P911208795,735968839957,Standard Chartered Bank,XuHoScyN,PLXPOUWX,"Nairobi CBD, 00100",00100,Nairobi
+Mutua Enterprises,info.mutuaenterprises.com,0751680747,P383910922,444417845517,Stanbic Bank Kenya,ITjmLdwB,RYXYROGX,"Bungoma Town, 50200",50200,Bungoma
+Mwangi Wholesalers,info.mwangiwholesalers.com,0786114491,P220039357,505725971884,Standard Chartered Bank,vFxRgSnq,DPXDWQJX,"Bungoma Town, 50200",50200,Bungoma
+Njeri Trading Co.,info.njeritradingco..biz,0752665236,P151883507,226750354058,Cooperative Bank of Kenya,MyifmQiT,WXQRBKWU,"Nakuru Town, 20100",20100,Nakuru
+Achieng Traders,info.achiengtraders.com,0723420053,P092104181,700271762601,Kenya Commercial Bank (KCB),pFCyTbNA,FFJDBJUB,"Meru Town, 60200",60200,Meru
+Omondi Enterprises,info.omondienterprises.com,0777322245,P668974849,948287006611,Stanbic Bank Kenya,PQnVayNK,WOBINPKY,"Naivasha Town, 20117",20117,Naivasha
+Omondi Enterprises,info.omondienterprises.biz,0707461375,P385594677,314034077265,Equity Bank,OOqdTonF,LCMPJKAM,"Bungoma Town, 50200",50200,Bungoma
+Kamau Importers,info.kamauimporters.com,0750995430,P280470288,479975751532,National Bank of Kenya,IJpHknSk,OSUMRCBF,"Kakamega Town, 50100",50100,Kakamega
+Omondi Enterprises,info.omondienterprises.biz,0798076325,P016326702,293537506226,CITIBANK,naooGrnE,NKYNACKD,"Kakamega Town, 50100",50100,Kakamega
+Kariuki Merchants,info.kariukimerchants.co.ke,0707089663,P558401219,902349372153,Absa Bank Kenya,lVtDtpXA,RMYJKZKO,"Bungoma Town, 50200",50200,Bungoma
+Wangari Exports,info.wangariexports.biz,0747640248,P112726796,056460584449,CITIBANK,LhiANpto,MQWYHVJH,"Kisumu City, 40100",40100,Kisumu
+Njuguna Limited,info.njugunalimited.biz,0755329653,P343407175,432157906570,Diamond Trust Bank (DTB),NRhXjHqK,SKPKIUNP,"Malindi Town, 80200",80200,Malindi
+Odhiambo Imports,info.odhiamboimports.co.ke,0749788636,P526897472,812610402980,Cooperative Bank of Kenya,dKWfeOzG,OHINILOM,"Naivasha Town, 20117",20117,Naivasha
+Njeri Trading Co.,info.njeritradingco..com,0772060194,P174328917,337762884332,Equity Bank,FFEPyKwf,YJBQKWLK,"Kitale Town, 30200",30200,Kitale
+Wanjiru Traders,info.wanjirutraders.com,0776845616,P339604870,705096754927,Barclays Bank of Kenya,hCKgbApH,DZLKXDVH,"Lamu Town, 80500",80500,Lamu
+Kamau Importers,info.kamauimporters.co.ke,0706257883,P565618027,554265501186,Standard Chartered Bank,zKNHkMPH,WIMCNBDP,"Naivasha Town, 20117",20117,Naivasha
+Kamau Importers,info.kamauimporters.com,0723329100,P347552694,817902009301,Equity Bank,uxWrYobJ,ATGYMIUZ,"Kitale Town, 30200",30200,Kitale

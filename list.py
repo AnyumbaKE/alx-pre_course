@@ -44,7 +44,7 @@ major_banks_kenya = [
 
 def generate_supplier():
     supplier_name = random.choice(kenyan_supplier_names)
-    supplier_email = f"{supplier_name.replace(' ', '').lower()}.{random.choice(['co.ke', 'com', 'biz'])}"
+    supplier_email = f"info.{supplier_name.replace(' ', '').lower()}.{random.choice(['co.ke', 'com', 'biz'])}"
     supplier_phone_number = '07' + ''.join(random.choices(string.digits, k=8))
     kra_pin = 'P' + ''.join(random.choices(string.digits, k=9))
     bank_account = ''.join(random.choices(string.digits, k=12))
